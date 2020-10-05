@@ -10,7 +10,10 @@ module.exports = {
         name: "github",
         link: "https://github.com/jrowbotham93",
       },
-      { name: "linkedin", link: "https://linkedin.com" },
+      {
+        name: "linkedin",
+        link: "https://www.linkedin.com/in/james-r-70581560/",
+      },
       { name: "medium", link: "https://medium.com/@james.rowbotham2" },
     ],
     about: `
