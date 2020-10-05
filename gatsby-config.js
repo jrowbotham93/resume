@@ -1,7 +1,7 @@
 module.exports = {
   /* Your site config here */
   siteMetadata: {
-    siteUrl: `https://jr-resume.netlify.com/`,
+    siteUrl: `https://james-r.netlify.com/`,
     name: `James R`,
     role: `Software Developer`,
     email: `james.rowbotham2@gmail.com`,
@@ -130,7 +130,7 @@ module.exports = {
     Books: ["Dawkins", "Hitchens", "Harari", "Orwell"],
 
     //available_themes: ["great-gatsby", "master-yoda", "wonder-woman", "darth-vader", "luke-lightsaber"],
-    theme: "darth-vader",
+    theme: "master-yoda",
     //fonts. Available: [default, programmer]
     font: "default",
   },
