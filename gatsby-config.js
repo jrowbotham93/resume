@@ -62,8 +62,8 @@ module.exports = {
         web-application at Rijkswaterstaat. Including building and maintaining a CI/CD
         pipeline with Azure, GitLab and Docker.</p>
         <p>Implemented agile methods to rapidly prototype applications for the Applied Data
-        Analytics in Medicine department at the University Medical Center Utrecht. Read my
-        article for a full description.</p>`,
+        Analytics in Medicine department at the University Medical Center Utrecht. You can read about this project
+        on <a href="https://medium.com/@james.rowbotham2">medium</a>.</p>`,
       },
       {
         role: "Trainee Web Developer",
