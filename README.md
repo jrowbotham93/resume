@@ -217,7 +217,7 @@ You can use the `buildspec.yml` file in the root directory for AWS CodeBuild. Yo
 
 ## Changing profile photo and favicon
 
-Simply replace the `profile.png` and `favicon.ico` files in the `/static` directory.
+Simply replace the `profile.jpg` and `favicon.ico` files in the `/static` directory.
 
 ## Contributions
 
@@ -226,3 +226,4 @@ PRs are welcome!
 ## License
 
 [![Open Source Love](https://badges.frapsoft.com/os/mit/mit.svg?v=102)](LICENSE)
+# resume
