@@ -102,7 +102,7 @@ module.exports = {
       },
       {
         name: "React",
-        level: "75",
+        level: "76",
         experience: "2 years",
       },
       {
