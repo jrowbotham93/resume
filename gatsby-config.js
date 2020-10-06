@@ -49,7 +49,7 @@ module.exports = {
           "Six months studying in Australia's capital followed by six months working in Melbourne as a B2B salesman",
       },
       {
-        degree: "BSc.",
+        degree: "BSc",
         major: "Psychology",
         when: "2012-2015",
         school: "University of Leeds",
