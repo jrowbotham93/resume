@@ -17,11 +17,12 @@ module.exports = {
       { name: "medium", link: "https://medium.com/@james.rowbotham2" },
     ],
     about: `
-      <p> I'm deeply interested in a whole plethora of subject areas from Biology,
-      Psychology and Anthropology to Physics, Technology and Computer Science.</p>
+      <p> I'm deeply interested in a plethora of subject areas from Biology,
+      Psychology and Anthropology to Physics, Technology and Computer Science. What fascinates me the most,
+      is trying to unpick the common threads which run through these subjects.</p>
 
       <p> I have been working as a  software developer in Amsterdam for over two years where I have gained experience
-      building front-end, back-end and DevOps processes in multiple languages across multiple business sectors.
+      building front-end applications, back-end services and DevOps processes in multiple languages across multiple business sectors.
       </p>
       `,
     education: [
@@ -30,17 +31,27 @@ module.exports = {
         major: "Behavioural Economics",
         when: "2016-2017",
         school: "Leiden University",
-        where: "Leiden",
-        moreInfo: "Achieved the Cum Laude Distinction",
+        where: "Leiden, NL",
+        moreInfo:
+          "Achieved the Cum Laude Distinction. Thesis:<em> Stimulating sustainable behaviour in the community </em>",
       },
       {
-        degree: "M.Sc.",
+        degree: "BSc",
+        major: "Study Abroad Programme",
+        when: "2014-2015",
+        school: "Australian National University",
+        where: "Canberra, Aus",
+        moreInfo:
+          "Six months studying in Australia's capital followed by six months working in Melbourne as a B2B salesman",
+      },
+      {
+        degree: "BSc.",
         major: "Psychology",
         when: "2012-2015",
         school: "University of Leeds",
         where: "Leeds, UK",
         moreInfo:
-          "Thesis (Distinction): Investigating the anxiolytic effect of a novel anxiolytic",
+          "Thesis (Distinction):<em> Investigating the anxiolytic effect of a novel anxiolytic </em>",
       },
     ],
     experience: [
@@ -85,6 +96,15 @@ module.exports = {
         moreInfo: `<p>Performance and referral marketing using tools like Facebook / Google Analytics</p>
          <p>Strategic and commercial partnership development.</p>
          <p>Formulated a quarterly growth strategy.</p>`,
+      },
+      {
+        role: "Sustainability Consultant",
+        when: "2016-2017",
+        company: "The Terrace",
+        where: "Amsterdam",
+        moreInfo: `<p>Research and analysis of sustainability trends</p>
+         <p>Auditing sustainability reports</p>
+         `,
       },
     ],
     skills: [
