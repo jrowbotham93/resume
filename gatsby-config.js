@@ -21,7 +21,7 @@ module.exports = {
       { name: "medium", link: "https://medium.com/@james.rowbotham2" },
     ],
     about: `
-      <p> I'm deeply interested in a plethora of subject areas from Biology,
+      <p> I'm interested in a range of subject areas from Biology,
       Psychology and Anthropology to Physics, Technology and Computer Science. What fascinates me the most,
       is trying to unpick the common threads which run through these subjects.</p>
 
@@ -76,14 +76,13 @@ module.exports = {
         where: "Amsterdam, NL",
         moreInfo: `
         <ul><li>Applied clean code practices to develop readable, maintainable and scalable Javascript
-        code and consistently deliver quality features for an in-production web-application at
-        ING Asset-Based Finance.</li>
-        <li>Improved the existing code base and infrastructure of an internal wiki
-        web-application at Rijkswaterstaat. Including building and maintaining a CI/CD
+        code and consistently deliver quality features for an application in production.</li>
+        <li>Improved the existing code base and infrastructure of an internal wikipedia
+        web-application. Including building and maintaining a CI/CD
         pipeline with Azure, GitLab and Docker.</li>
         <li>Implemented agile methods to rapidly prototype applications for the Applied Data
-        Analytics in Medicine department at the University Medical Center Utrecht. You can read about this project
-        on <a href="https://medium.com/@james.rowbotham2">medium</a>.</li></ul>`,
+        Analytics in Medicine department at the University Medical Center Utrecht. Read this article
+        on <a href="https://medium.com/@james.rowbotham2">medium</a> which describes one of these projects.</li></ul>`,
       },
       {
         role: "Trainee Web Developer",
