@@ -59,51 +59,56 @@ module.exports = {
         role: "Freelance Web Developer",
         when: "ongoing",
         company: "Freelance",
+        slug: "",
         where: "Amsterdam, NL",
-        moreInfo: `Building progressive web applications with headless CMS integrations. Utilising the
-        rich JAMstack ecosystem.`,
+        moreInfo: `<ul><li>Building progressive web applications with headless CMS integrations. Utilising the
+        rich JAMstack ecosystem.</ul></li>`,
       },
       {
         role: "Software Engineer",
         when: "2018 - now",
         company: "Finaps",
+        slug: "finaps.nl",
         where: "Amsterdam, NL",
         moreInfo: `
-        <p>Applied clean code practices to develop readable, maintainable and scalable Javascript
+        <ul><li>Applied clean code practices to develop readable, maintainable and scalable Javascript
         code and consistently deliver quality features for an in-production web-application at
-        ING Asset-Based Finance.</p>
-        <p>Improved the existing code base and infrastructure of an internal wiki
+        ING Asset-Based Finance.</li>
+        <li>Improved the existing code base and infrastructure of an internal wiki
         web-application at Rijkswaterstaat. Including building and maintaining a CI/CD
-        pipeline with Azure, GitLab and Docker.</p>
-        <p>Implemented agile methods to rapidly prototype applications for the Applied Data
+        pipeline with Azure, GitLab and Docker.</li>
+        <li>Implemented agile methods to rapidly prototype applications for the Applied Data
         Analytics in Medicine department at the University Medical Center Utrecht. You can read about this project
-        on <a href="https://medium.com/@james.rowbotham2">medium</a>.</p>`,
+        on <a href="https://medium.com/@james.rowbotham2">medium</a>.</li></ul>`,
       },
       {
         role: "Trainee Web Developer",
         when: "2018 (Sept) - 2018 (Dec)",
         company: "B-Amsterdam",
+        slug: "",
         where: "Amsterdam",
-        moreInfo: `<p>Learned the fundamentals of web-development, implemented a movie
-        recommendation application with Javascript, Node, HTML and CSS.</p>
-         <p>Learned the fundamentals of version control with Git, and Github.</p>`,
+        moreInfo: `<ul><li>Learned the fundamentals of web-development, implemented a movie
+        recommendation application with Javascript, Node, HTML and CSS.</li>
+         <li>Learned the fundamentals of version control with Git, and Github.</li></ul>`,
       },
       {
         role: "Market Developer",
         when: "2017-2018",
         company: "TicketSwap",
+        slug: "ticketswap.com",
         where: "Amsterdam",
-        moreInfo: `<p>Performance and referral marketing using tools like Facebook / Google Analytics</p>
-         <p>Strategic and commercial partnership development.</p>
-         <p>Formulated a quarterly growth strategy.</p>`,
+        moreInfo: `<ul><li>Performance and referral marketing using tools like Facebook / Google Analytics</li>
+         <li>Strategic and commercial partnership development.</li>
+         <li>Formulated a quarterly growth strategy.</li></ul>`,
       },
       {
         role: "Sustainability Consultant",
         when: "2016-2017",
         company: "The Terrace",
+        slug: "theterrace.nl",
         where: "Amsterdam",
-        moreInfo: `<p>Research and analysis of sustainability trends</p>
-         <p>Auditing sustainability reports</p>
+        moreInfo: `<ul><li>Research and analysis of sustainability trends</li>
+         <li>Auditing sustainability reports</li></ul>
          `,
       },
     ],

@@ -14,6 +14,7 @@ export default props => {
             company
             where
             moreInfo
+            slug
           }
         }
       }
@@ -25,6 +26,7 @@ export default props => {
       name={item.role}
       when={item.when}
       where={item.where}
+      slug={item.slug}
       org={item.company}
       moreInfo={item.moreInfo}
     />

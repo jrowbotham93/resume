@@ -9,7 +9,16 @@ const Item = props => {
           <td className="item-when">{props.when || ""}</td>
         </tr>
         <tr>
-          <td className="item-org">{props.org || ""}</td>
+          <td className="item-org">
+            {props.slug ? (
+              <a href={`https://${props.slug || ""}`} target="_blank">
+                {" "}
+                {props.org || ""}
+              </a>
+            ) : (
+              props.org || ""
+            )}
+          </td>
           <td className="item-where">{props.where || ""}</td>
         </tr>
         <tr>
